@@ -80,3 +80,15 @@ hr{
 p{
   color: black;
 }
+
+@media (max-width: 786px){
+  a{
+    font-size: 0.75rem !important;
+  }
+}
+
+@media (max-width: 380px){
+  a{
+    font-size: 0.65rem !important;
+  }
+}
